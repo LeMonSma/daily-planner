@@ -74,3 +74,15 @@ textarea {
 .max-width {
     width: 100%;
 }
+
+.past {
+    background-color: grey;
+}
+
+.now {
+    background-color: red;
+}
+
+.future {
+    background-color: green;
+}
